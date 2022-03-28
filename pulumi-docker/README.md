@@ -1,7 +1,6 @@
 
 # Docker multi-container deployment
 
-This example Pulumi application runs two containers locally, one Redis container and one built from the application in the `app` folder. The application queries the Redis database and returns the number of times the page has been viewed.
 
 ## Prerequisites
 
